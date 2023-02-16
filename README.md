@@ -76,3 +76,24 @@ print something if you succeeded, if not -> error handling for every step.
 
 ##
 
+<ins> Exo 2 </ins> : Create a function that let you follow and unfollow the account wanted. Be careful, a lot of error handling is needed for this exo.
+
+# Step 5: go further with selenium
+
+Now that you know how to use selenium, have fun using it for everyting you want to automize. If you don't have ideas, here is few exemple :
+
+- Automate a youtube downloader 
+- Download images by google image
+- make the same function you did for twitter but with other website : (Instagram, linkedin,...)
+- Get your timetable from EPITECH intra.
+- ...
+
+Be creative !
+
+##
+
+##
+
+Thanks for doing our workshop, do not hesitate to contact us !
+
+Workshop make by Steeven Akintilo and Rémi SALEH
